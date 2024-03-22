@@ -1,6 +1,9 @@
 ﻿# Book_Recommend_System
 
 https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
+
+
+![Screenshot (377)](https://github.com/abdullahalnaeem/Book_Recommend_System/assets/69196580/816515a4-0da6-4dae-92eb-ab7304faa3c9)
  
 ![Screenshot (378)](https://github.com/abdullahalnaeem/Book_Recommend_System/assets/69196580/461f50af-52fa-491e-becf-0c629a790052)
 
@@ -12,6 +15,5 @@ https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
 
 ![Screenshot (382)](https://github.com/abdullahalnaeem/Book_Recommend_System/assets/69196580/c04f25b6-034d-479a-b25e-084db2f8d1af)
 
-![Screenshot (376)](https://github.com/abdullahalnaeem/Book_Recommend_System/assets/69196580/a5bea616-6b06-4186-abd0-55c8c1061448)
 
-![Screenshot (377)](https://github.com/abdullahalnaeem/Book_Recommend_System/assets/69196580/816515a4-0da6-4dae-92eb-ab7304faa3c9)
+
